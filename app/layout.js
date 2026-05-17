@@ -12,7 +12,7 @@ export const metadata = {
     nocache: true,
   },
   openGraph: {
-    title: 'Yuna-ux site',
+    title: 'rafaelqcc site',
     description: 'html site',
     url: 'https://yuna-ux.vercel.app/',
     siteName: 'Yuna-ux site',
@@ -21,7 +21,7 @@ export const metadata = {
         url: 'https://yuna-ux.vercel.app/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Yuna-ux site',
+        alt: 'rafaelqcc site',
       },
     ],
     locale: 'en-US',
