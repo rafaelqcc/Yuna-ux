@@ -2,6 +2,6 @@
 
 export default function ThumbnailTester() {
   return (
-    <h1>Yuna ux site</h1>
+    <h1>Default web page</h1>
   )
 }
