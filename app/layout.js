@@ -2,7 +2,7 @@
 // import '../styles/home-style.css';
 
 export const metadata = {
-  title: 'Yuna-ux site',
+  title: 'rafaelqcc site',
   description: 'html site',
   keywords: ['Html'],
   authors: [{ name: 'Yuna-ux', url: 'https://yuna-ux.vercel.app' }],
